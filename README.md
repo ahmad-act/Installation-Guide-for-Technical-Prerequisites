@@ -8,6 +8,10 @@ This repository provides step-by-step installation guides for technical prerequi
 
 ---
 
-## 2. 📦 [`uv` Installation Guide](./uv-installation-guide.md)
+## 2. 📦 [`uv` Installation & Usage Guide](./uv-installation-guide.md)
+
+---
+
+## 3. 🐳 [`Docker Desktop` Installation Guide](./docker-desktop-installation-guide.md)
 
 ---
