@@ -4,3 +4,7 @@ This repository provides step-by-step installation guides for technical prerequi
 
 ---
 
+## 1. 🐍 [`Python Installation Guide`](./python-installation-guide.md)
+
+---
+
