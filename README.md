@@ -15,3 +15,7 @@ This repository provides step-by-step installation guides for technical prerequi
 ## 3. 🐳 [`Docker Desktop` Installation Guide](./docker-desktop-installation-guide.md)
 
 ---
+
+## 4. 🤖 [`Ollama` Installation Guide](./ollama-installation-guide.md)
+
+---
