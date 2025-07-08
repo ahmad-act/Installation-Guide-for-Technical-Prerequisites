@@ -23,3 +23,7 @@ This repository provides step-by-step installation guides for technical prerequi
 ## 5. 🤖 [`Microsoft C++ Build Tools` Installation Guide](./microsoft-c++-build-tools-installation-guide.md)
 
 ---
+
+## 6. 🚀 [`Open WebUI Installation Guide` Installation Guide](./open-webui-installation-guide.md)
+
+---
