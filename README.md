@@ -19,3 +19,7 @@ This repository provides step-by-step installation guides for technical prerequi
 ## 4. 🤖 [`Ollama` Installation Guide](./ollama-installation-guide.md)
 
 ---
+
+## 5. 🤖 [`Microsoft C++ Build Tools` Installation Guide](./microsoft-c++-build-tools-installation-guide.md)
+
+---
